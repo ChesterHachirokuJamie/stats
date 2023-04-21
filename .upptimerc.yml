@@ -6,46 +6,57 @@ sites:
   - name: Main Server (Server 02)
     check: "tcp-ping"
     url: chesterjamie.cn
+    icon: https://chesterjamie.cn:8443/favicon.ico
     port: 5357
   - name: Chester Hachiroku Jamie Cloud Drive
     check: "tcp-ping"
     url: chesterjamie.cn
+    icon: https://chesterjamie.cn:8443/favicon.ico
     port: 5000
   - name: Dufs-01
     check: "tcp-ping"
     url: chesterjamie.cn
+    icon: https://chesterjamie.cn:8443/favicon.ico
     port: 5050
   - name: Temp Dufs (Normally down)
     check: "tcp-ping"
     url: chesterjamie.cn
+    icon: https://chesterjamie.cn:8443/favicon.ico
     port: 13613
   - name: Syncthing Endpoint
     check: "tcp-ping"
     url: chesterjamie.cn
+    icon: https://chesterjamie.cn:8443/favicon.ico
     port: 8384
   - name: Tomcat Web Service
     check: "tcp-ping"
     url: chesterjamie.cn
+    icon: https://chesterjamie.cn:8443/favicon.ico
     port: 8443
   - name: Matrix Synapse
     check: "tcp-ping"
     url: chesterjamie.cn
+    icon: https://chesterjamie.cn:8443/favicon.ico
     port: 8448
   - name: Matrix Element Web Instance
     check: "tcp-ping"
     url: chesterjamie.cn
+    icon: https://chesterjamie.cn:8443/favicon.ico
     port: 8848
   - name: Live Stream Server
     check: "tcp-ping"
     url: chesterjamie.cn
+    icon: https://chesterjamie.cn:8443/favicon.ico
     port: 8888
   - name: Main Server Performance Panel
     check: "tcp-ping"
     url: chesterjamie.cn
+    icon: https://chesterjamie.cn:8443/favicon.ico
     port: 11451      
   - name: Syncthing Relay Service Metrics
     check: "tcp-ping"
     url: chesterjamie.cn
+    icon: https://chesterjamie.cn:8443/favicon.ico
     port: 22070
   - name: LAX Server 01
     url: https://drive.chesterhachirokujamie.cc
@@ -64,8 +75,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Performance
-      href: stats.hachiroku.cn
+#    - title: Performance
+#      href: stats.hachiroku.cn
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
