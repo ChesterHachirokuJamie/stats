@@ -32,7 +32,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://http://status.hachiroku.cn/)
+[**Visit our status website →**](https://status.hachiroku.cn/)
 
 ## 📄 License
 
