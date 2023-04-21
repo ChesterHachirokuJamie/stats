@@ -1,56 +1,56 @@
 # Change these first
-owner: ChesterHachirokuJamie # Your GitHub organization or username, where this repository lives
-repo: stats # The name of this repository
+owner: upptime # Your GitHub organization or username, where this repository lives
+repo: upptime # The name of this repository
 
 sites:
   - name: Main Server (Server 02)
-      check: "tcp-ping"
-      url: chesterjamie.cn
-      port: 5357
+    check: "tcp-ping"
+    url: chesterjamie.cn
+    port: 5357
   - name: Chester Hachiroku Jamie Cloud Drive
-      check: "tcp-ping"
-      url: chesterjamie.cn
-      port: 5000
+    check: "tcp-ping"
+    url: chesterjamie.cn
+    port: 5000
   - name: Dufs-01
-      check: "tcp-ping"
-      url: chesterjamie.cn
-      port: 5050
+    check: "tcp-ping"
+    url: chesterjamie.cn
+    port: 5050
   - name: Temp Dufs (Normally down)
-      check: "tcp-ping"
-      url: chesterjamie.cn
-      port: 13613
+    check: "tcp-ping"
+    url: chesterjamie.cn
+    port: 13613
   - name: Syncthing Endpoint
-      check: "tcp-ping"
-      url: chesterjamie.cn
-      port: 8384
+    check: "tcp-ping"
+    url: chesterjamie.cn
+    port: 8384
   - name: Tomcat Web Service
-      check: "tcp-ping"
-      url: chesterjamie.cn
-      port: 8443
+    check: "tcp-ping"
+    url: chesterjamie.cn
+    port: 8443
   - name: Matrix Synapse
-      check: "tcp-ping"
-      url: chesterjamie.cn
-      port: 8448
+    check: "tcp-ping"
+    url: chesterjamie.cn
+    port: 8448
   - name: Matrix Element Web Instance
-      check: "tcp-ping"
-      url: chesterjamie.cn
-      port: 8848
+    check: "tcp-ping"
+    url: chesterjamie.cn
+    port: 8848
   - name: Live Stream Server
-      check: "tcp-ping"
-      url: chesterjamie.cn
-      port: 8888
+    check: "tcp-ping"
+    url: chesterjamie.cn
+    port: 8888
   - name: Main Server Performance Panel
-      check: "tcp-ping"
-      url: chesterjamie.cn
-      port: 11451      
+    check: "tcp-ping"
+    url: chesterjamie.cn
+    port: 11451      
   - name: Syncthing Relay Service Metrics
-      check: "tcp-ping"
-      url: chesterjamie.cn
-      port: 22070
+    check: "tcp-ping"
+    url: chesterjamie.cn
+    port: 22070
   - name: LAX Server 01
-      url: https://drive.chesterhachirokujamie.cc
+    url: https://drive.chesterhachirokujamie.cc
   - name: LAX Server 02
-      url: https://drive.n2.chesterhachirokujamie.cc
+    url: https://drive.n2.chesterhachirokujamie.cc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
