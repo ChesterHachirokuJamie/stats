@@ -65,8 +65,6 @@ sites:
     port: 17015
   - name: LAX Server 01
     url: https://drive.chesterhachirokujamie.cc
-#  - name: LAX Server 02
-#    url: https://drive.n2.chesterhachirokujamie.cc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -74,14 +72,17 @@ status-website:
   cname: status.hachiroku.cn
   # baseUrl: /your-repo-name
   logoUrl: https://chesterjamie.cn:8443/favicon.ico
+  favicon: https://chesterjamie.cn:8443/favicon.ico
   name: CHachirokuJamie Status
   introTitle: "**CHachirokuJamie Status Monitoring Panel**"
-  introMessage: To be filled here
+  introMessage: You only live once.
   navbar:
     - title: Status
       href: /
-#    - title: Performance
-#      href: stats.hachiroku.cn
+    - title: Performance
+      href: http://stats.hachiroku.cn
+    - title: IFV-Lab
+      href: https://status.ifvlab.com
 
 workflowSchedule:
   graphs: "0 0 * * *"
