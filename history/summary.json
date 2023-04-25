@@ -4,19 +4,19 @@
     "url": "chesterjamie.cn",
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "main-server-server-02",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1015,
-    "timeDay": 881,
-    "timeWeek": 1015,
-    "timeMonth": 1015,
-    "timeYear": 1015,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 1092,
+    "timeDay": 1284,
+    "timeWeek": 1092,
+    "timeMonth": 1092,
+    "timeYear": 1092,
     "dailyMinutesDown": {
-      "2023-04-25": 13
+      "2023-04-25": 17
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "chesterjamie.cn",
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "chester-hachiroku-jamie-cloud-drive",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 1048,
-    "timeDay": 764,
-    "timeWeek": 1048,
-    "timeMonth": 1048,
-    "timeYear": 1048,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 1090,
+    "timeDay": 1054,
+    "timeWeek": 1090,
+    "timeMonth": 1090,
+    "timeYear": 1090,
     "dailyMinutesDown": {
-      "2023-04-25": 12
+      "2023-04-25": 16
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "chesterjamie.cn",
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "dufs-01",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 733,
-    "timeDay": 806,
-    "timeWeek": 733,
-    "timeMonth": 733,
-    "timeYear": 733,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 778,
+    "timeDay": 994,
+    "timeWeek": 778,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {
-      "2023-04-25": 10
+      "2023-04-25": 15
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "syncthing-endpoint",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.75%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 371,
     "timeDay": 290,
     "timeWeek": 371,
     "timeMonth": 371,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2023-04-25": 9
+      "2023-04-25": 14
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "tomcat-web-service",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.78%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 377,
     "timeDay": 464,
     "timeWeek": 377,
     "timeMonth": 377,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-04-25": 8
+      "2023-04-25": 13
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "matrix-synapse",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.80%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 350,
     "timeDay": 470,
     "timeWeek": 350,
     "timeMonth": 350,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-04-25": 6
+      "2023-04-25": 11
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "matrix-element-web-instance",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.83%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 342,
     "timeDay": 279,
     "timeWeek": 342,
     "timeMonth": 342,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2023-04-25": 5
+      "2023-04-25": 10
     }
   },
   {
@@ -145,18 +145,18 @@
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "live-stream-server",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.85%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 307,
     "timeDay": 304,
     "timeWeek": 307,
     "timeMonth": 307,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2023-04-25": 4
+      "2023-04-25": 9
     }
   },
   {
@@ -165,18 +165,18 @@
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "main-server-performance-panel",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.87%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 287,
     "timeDay": 317,
     "timeWeek": 287,
     "timeMonth": 287,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2023-04-25": 2
+      "2023-04-25": 7
     }
   },
   {
@@ -185,18 +185,18 @@
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "syncthing-relay-service-metrics",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.90%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 293,
     "timeDay": 317,
     "timeWeek": 293,
     "timeMonth": 293,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-04-25": 1
+      "2023-04-25": 6
     }
   },
   {
@@ -205,17 +205,19 @@
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "c-hachiroku-jamie",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 250,
     "timeDay": 226,
     "timeWeek": 250,
     "timeMonth": 250,
     "timeYear": 250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-25": 5
+    }
   },
   {
     "name": "CHachirokuJamie上海电信Guest中转服务器",
@@ -223,17 +225,19 @@
     "icon": "https://chesterjamie.cn:8443/favicon.ico",
     "slug": "c-hachiroku-jamie-guest",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 241,
     "timeDay": 230,
     "timeWeek": 241,
     "timeMonth": 241,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-25": 3
+    }
   },
   {
     "name": "LAX Server 01",
