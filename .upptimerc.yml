@@ -33,11 +33,6 @@ sites:
     url: chesterjamie.cn
     icon: https://chesterjamie.cn:8443/favicon.ico
     port: 8448
-  - name: Matrix Element Web Instance
-    check: "tcp-ping"
-    url: chesterjamie.cn
-    icon: https://chesterjamie.cn:8443/favicon.ico
-    port: 8848
   - name: Live Stream Server
     check: "tcp-ping"
     url: chesterjamie.cn
