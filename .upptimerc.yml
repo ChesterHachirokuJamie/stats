@@ -70,7 +70,7 @@ status-website:
   favicon: https://chesterjamie.cn:8443/favicon.ico
   name: CHachirokuJamie Status
   introTitle: "**CHachirokuJamie Status Monitoring Panel**"
-  introMessage: You only live once.
+  introMessage: "***私有化部署，指光明航路***"
   navbar:
     - title: Status
       href: /
