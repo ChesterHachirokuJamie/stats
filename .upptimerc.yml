@@ -75,7 +75,7 @@ status-website:
     - title: Status
       href: /
     - title: Performance
-      href: http://stats.hachiroku.cn
+      href: http://chesterjamie.cn:11451
     - title: IFV-Lab
       href: https://status.ifvlab.com
 
