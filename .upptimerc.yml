@@ -42,12 +42,7 @@ sites:
     check: "tcp-ping"
     url: chesterjamie.cn
     icon: https://chesterjamie.cn:8443/favicon.ico
-    port: 11451      
-  - name: Syncthing Relay Service Metrics
-    check: "tcp-ping"
-    url: chesterjamie.cn
-    icon: https://chesterjamie.cn:8443/favicon.ico
-    port: 22070
+    port: 11451
   - name: CHachirokuJamie上海电信中转服务器
     check: "tcp-ping"
     url: chesterjamie.cn
@@ -87,6 +82,3 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
