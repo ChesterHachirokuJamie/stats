@@ -53,8 +53,6 @@ sites:
     url: chesterjamie.cn
     icon: https://chesterjamie.cn:8443/favicon.ico
     port: 17015
-  - name: LAX Server 01
-    url: https://drive.chesterhachirokujamie.cc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
