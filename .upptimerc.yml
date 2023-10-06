@@ -13,11 +13,6 @@ sites:
     url: chesterjamie.cn
     icon: https://chesterjamie.cn:8443/favicon.ico
     port: 5000
-  - name: Dufs-01
-    check: "tcp-ping"
-    url: chesterjamie.cn
-    icon: https://chesterjamie.cn:8443/favicon.ico
-    port: 5050
   - name: Syncthing Endpoint
     check: "tcp-ping"
     url: chesterjamie.cn
