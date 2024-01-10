@@ -38,16 +38,6 @@ sites:
     url: chesterjamie.cn
     icon: https://chesterjamie.cn:8443/favicon.ico
     port: 11451
-  - name: CHachirokuJamie上海电信中转服务器
-    check: "tcp-ping"
-    url: chesterjamie.cn
-    icon: https://chesterjamie.cn:8443/favicon.ico
-    port: 17014
-  - name: CHachirokuJamie上海电信Guest中转服务器
-    check: "tcp-ping"
-    url: chesterjamie.cn
-    icon: https://chesterjamie.cn:8443/favicon.ico
-    port: 17015
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
